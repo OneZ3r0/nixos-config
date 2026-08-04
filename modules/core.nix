@@ -34,6 +34,7 @@
     curl
     git
     btop
+    pciutils
   ];
 
   nix.settings = {
